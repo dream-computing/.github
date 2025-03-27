@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <p align="left">
-  <img src="logo-with-text-dark.svg" alt="Project Icon" width="100"/>
+  <img src="logo-with-text-dark.svg" alt="Project Icon" width="400"/>
 </p>
 
 <!--
