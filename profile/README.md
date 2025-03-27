@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="left">
+  <img src="logo-with-text-dark.svg" alt="Project Icon" width="100"/>
+</p>
+
 <!--
 
 **Here are some ideas to get you started:**
