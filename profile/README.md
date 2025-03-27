@@ -2,9 +2,7 @@
   <img src="logo-with-text-dark.svg" alt="Project Icon" width="400"/>
 </p>
 
-Dream Computing develops real-time visual generation systems that convert natural language into visual art. The technology combines human creative input with AI to enable new forms of artistic expression. 
-
-By challenging traditional human-machine interfaces, we're expanding the ways people can interact with AI. Our goal is to create accessible tools that put advanced AI capabilities in the hands of users regardless of technical expertise.
+Human creativity meets machine intelligence.
 
 <!--
 
