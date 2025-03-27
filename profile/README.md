@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="logo-with-text-dark.svg" alt="Project Icon" width="400"/>
+  <img src="logo-with-text-dark.svg" alt="Project Icon" width="300"/>
 </p>
 
 Human creativity meets machine intelligence.
